@@ -2,6 +2,8 @@
 
 A web-based application that enables text synchronization between an Android device and a browser.
 
+## Status and Images
+
 This project is being actively developed and maintained by Kishan Rajeev.
 
 #### Flutter App Screenshots
