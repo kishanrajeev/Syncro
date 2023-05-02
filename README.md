@@ -8,7 +8,7 @@ This project is being actively developed and maintained by Kishan Rajeev.
 
 <table>
   <tr>
-    <td>With Text(Default)</td>
+    <td>With Text</td>
      <td>Without Text</td>
   </tr>
   <tr>
