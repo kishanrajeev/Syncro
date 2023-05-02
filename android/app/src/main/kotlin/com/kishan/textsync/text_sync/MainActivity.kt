@@ -1,4 +1,4 @@
-package com.kishan.textsync.text_sync
+package com.kishan.syncro
 
 import io.flutter.embedding.android.FlutterActivity
 
