@@ -1,16 +1,21 @@
-# text_sync
+# Syncro
 
-An app to sync text between android and a web browser.
+A web-based application that enables text synchronization between an Android device and a browser.
 
-## Getting Started
+## Status and Images
 
-This project is a starting point for a Flutter application.
+This project is being actively developed and maintained by Kishan Rajeev.
 
-A few resources to get you started if this is your first Flutter project:
+#### Flutter App Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<table>
+  <tr>
+    <td>With Text</td>
+     <td>Without Text</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/125786083/235555654-b4b4e3b7-a51c-4d4f-a93c-2a371be84c5d.jpg" width=270 height=580></td>
+    <td><img src="https://user-images.githubusercontent.com/125786083/235555653-e3dbe8da-0a8a-40c4-87c8-94ce53a540a0.jpg" width=270 height=580></td>
+  </tr>
+ </table>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
