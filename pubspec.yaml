@@ -29,6 +29,8 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  indexed: ^0.0.8
+  shared_preferences: ^2.0.17
   flutter_webview_plugin: 0.3.11
   flutter:
     sdk: flutter
