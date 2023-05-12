@@ -19,3 +19,39 @@ This project is being actively developed and maintained by Kishan Rajeev.
   </tr>
  </table>
 
+# Syncro
+
+A web-based application that enables text synchronization between an Android device and a browser.
+
+## Features
+
+* Synchronize text between an Android device and a browser.
+* Supports multiple devices.
+* Supports multiple browsers.
+* Easy to use.
+
+## Getting Started
+
+1. Install the Syncro app on your Android device.
+2. Open the Syncro app and create an account.
+3. Open the Syncro website in your browser.
+4. Sign in to your account.
+5. Click the "Sync" button to start syncing your text.
+
+## Screenshots
+
+[Image of the Syncro app on an Android device]
+
+[Image of the Syncro website in a browser]
+
+## Documentation
+
+* [Syncro documentation](https://kishan.knowledgeplatter.com/textsyncapp/docs/)
+
+## Contact
+
+* [Kishan Rajeev](https://kishan.knowledgeplatter.com/)
+
+## License
+
+Syncro is licensed under the MIT License.
